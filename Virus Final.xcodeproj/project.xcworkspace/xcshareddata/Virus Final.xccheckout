@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CAA4992D-7748-4CDA-9800-9A85E36DB679</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Virus Final</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4264D09E-201B-4B3D-ADE6-4C3EC58FF944</key>
+		<string>https://bitbucket.org/ulyssesz/virus-final.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Virus Final.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4264D09E-201B-4B3D-ADE6-4C3EC58FF944</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/ulyssesz/virus-final.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4264D09E-201B-4B3D-ADE6-4C3EC58FF944</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4264D09E-201B-4B3D-ADE6-4C3EC58FF944</string>
+			<key>IDESourceControlWCCName</key>
+			<string>virus-final1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
